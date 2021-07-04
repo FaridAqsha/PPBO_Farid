@@ -16,6 +16,7 @@ public class Ppbo_git_farid {
      */
     public static void main(String[] args) {
         System.out.println("Yeah it is me Farid");
+        System.out.println("today were gonna learn Git");
     }
     
 }
