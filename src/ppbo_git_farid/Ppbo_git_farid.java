@@ -18,6 +18,7 @@ public class Ppbo_git_farid {
         System.out.println("Yeah it is me Farid");
         System.out.println("today were gonna learn Git");
         System.out.println("first, we must install Git on our pc");
+        System.out.println("second, connect Git to our project");
     }
     
 }
