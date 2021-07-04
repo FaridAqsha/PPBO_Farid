@@ -15,7 +15,7 @@ public class Ppbo_git_farid {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Yeah it is me Farid");
+        // TODO code application logic here
     }
     
 }
